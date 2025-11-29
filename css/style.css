@@ -57,9 +57,9 @@ body{
 .recipe_time_title {
     font-size: 20px;
     font-weight: 600;
-    color: var(--Rose_800);
     margin: 0;
     line-height: 1;
+    color: var(--Stone_600);
 }
 .recipe_time_value span {
     font-weight: 700;
@@ -68,6 +68,7 @@ body{
     list-style-position: outside;
     margin-top: 8px;
     padding-left: 24px;
+    color: var(--Stone_600);
 }
 .recipe_time_value {
     color: var(--Rose_800);
@@ -219,3 +220,4 @@ a {
     padding: 12px;
 }
 }
+
